@@ -5,7 +5,7 @@ Feauting [Ex-Machina](https://a24films.com/films/ex-machina), one of the most be
 ![IMG_0468](https://user-images.githubusercontent.com/47917431/146089304-56418bc8-2360-4f46-bb32-6cc914dcde33.jpg)
 
 
-## Read here for the original Python & Raspberry Pi interpretation of Bryan Boyer's Very Slow Movie Player  
+## Read below for the original Python & Raspberry Pi interpretation of Bryan Boyer's Very Slow Movie Player  
 
 
 Full writeup of the original project here:   
