@@ -1,8 +1,11 @@
-# SlowMovie
+# My interpreation of SlowMovie
 
-![](Extras/img.jpg)
+Feauting Ex-Machina, one of the most beautiful films ever made.
 
-## Python / Raspberry Pi interpretation of Bryan Boyer's Very Slow Movie Player  
+![IMG_0468](https://user-images.githubusercontent.com/47917431/146089304-56418bc8-2360-4f46-bb32-6cc914dcde33.jpg)
+
+
+## Read here for the original Python & Raspberry Pi interpretation of Bryan Boyer's Very Slow Movie Player  
 
 
 Full writeup of this project here:   
