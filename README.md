@@ -1,6 +1,6 @@
 # My interpreation of SlowMovie 🎬
 
-Feauting [Ex-Machina](https://a24films.com/films/ex-machina), one of the most beautiful films ever made and an undoubtly bewitching way to experience a film.
+Feauting [Ex-Machina](https://a24films.com/films/ex-machina), one of the most beautiful films ever made and an undoubtly bewitching way to experience a piece of cinematography.
 
 ![IMG_0468](https://user-images.githubusercontent.com/47917431/146089304-56418bc8-2360-4f46-bb32-6cc914dcde33.jpg)
 ![55FCBD06-5F24-420C-943F-C52723FFEF20](https://user-images.githubusercontent.com/47917431/146090464-d5f2effc-0ee8-46a3-a469-37d7ca558965.JPG)
