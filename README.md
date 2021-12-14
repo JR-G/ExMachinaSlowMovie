@@ -1,4 +1,4 @@
-# My interpreation of SlowMovie
+# My interpreation of SlowMovie 🎬
 
 Feauting [Ex-Machina](https://a24films.com/films/ex-machina), one of the most beautiful films ever made and an undoubtly bewitching way to experience a film.
 
